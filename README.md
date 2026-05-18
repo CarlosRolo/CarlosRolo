@@ -66,7 +66,7 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRolo&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=CarlosRolo&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRolo&layout=compact&theme=tokyonight" alt="Top Languages"/>
