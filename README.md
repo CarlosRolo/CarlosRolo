@@ -33,7 +33,7 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Networks & Telecom**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
