@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Carlos David Rodríguez López</h1>
+<h1 align="center">Hi there, I'm Carlos David Rodríguez López</h1>
 
 <h3 align="center">Telematics Engineer | IoT · Edge AI · Networks · DevOps</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **Telematics Engineer** from Escuela Superior Politécnica de Chimborazo (ESPOCH), Ecuador, working at the intersection of **networking, IoT, edge AI, and infrastructure automation**.
 
@@ -24,12 +24,12 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 
 ---
 
-### 🏆 Recent Wins
+### Recent Wins
 
-- 🥇 **1st Place — National IoT Challenge V3.0** (Healthcare category, 2026)  
+- **1st Place — National IoT Challenge V3.0** (Healthcare category, 2026)  
   *Co-built PneumoLink, a contactless respiratory monitor using mmWave radar + Edge AI*
-- 🥇 **1st Place — ESPOCH Academic Fair** (2024) — Smart Traffic Lights project
-- 🎓 **Telematics Engineer** — Officially registered with Ecuador's Ministry of Education (SENESCYT)
+- **1st Place — ESPOCH Academic Fair** (2024) — Smart Traffic Lights project
+- **Telematics Engineer** — Officially registered with Ecuador's Ministry of Education (SENESCYT)
 
 ---
 
@@ -60,7 +60,7 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosRolo&show_icons=true&theme=tokyonight" />
@@ -72,12 +72,12 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 💼 **LinkedIn:** [carlosdrodriguezl](https://www.linkedin.com/in/carlosdrodriguezl/)
-- 🎖️ **Credly Badges:** [Verified Cisco & Tech Credentials](https://www.credly.com/users/carlos-david-rodriguez-lopez)
-- 📧 **Email:** rodriguezcd2002@gmail.com
-- 📍 **Location:** Riobamba, Ecuador
+- **LinkedIn:** [carlosdrodriguezl](https://www.linkedin.com/in/carlosdrodriguezl/)
+- **Credly Badges:** [Verified Cisco & Tech Credentials](https://www.credly.com/users/carlos-david-rodriguez-lopez)
+- **Email:** rodriguezcd2002@gmail.com
+- **Location:** Riobamba, Ecuador
 
 ---
 
