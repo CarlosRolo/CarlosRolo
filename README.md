@@ -76,7 +76,8 @@ Currently working as **Junior Infrastructure & Automation Engineer** at Andoraso
 - **LinkedIn:** [carlosdrodriguezl](https://www.linkedin.com/in/carlosdrodriguezl/)
 - **Credly Badges:** [Verified Cisco & Tech Credentials](https://www.credly.com/users/carlos-david-rodriguez-lopez)
 - **Email:** rodriguezcd2002@gmail.com
-- **Location:** Riobamba, Ecuador
+- **Location-1:** Riobamba, Chimborazo, Ecuador
+- **Location-2:** Manta, Manabí Ecuador
 
 ---
 
